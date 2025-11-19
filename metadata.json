@@ -1,0 +1,7 @@
+{
+  "name": "StudySnap",
+  "description": "Instant AI homework helper. Snap a photo, get a step-by-step solution, concept explanation, and practice questions.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
